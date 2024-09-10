@@ -1,1 +1,3 @@
-# first_flet_app
+# Aprendendo Python + Flet
+
+Primeiro App Fletgit 
